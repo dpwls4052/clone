@@ -56,7 +56,7 @@ body{
 }
 #intro{
     height: 100vh;
-    background: url(../socar/main-full.jpg) no-repeat center center/cover;
+    background: url(socar/main-full.jpg) no-repeat center center/cover;
 }
 .header{
     height: 60px;
